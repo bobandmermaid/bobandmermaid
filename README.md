@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ![Image alt](https://github.com/bobandmermaid/png/raw/main/git2.png)
 <!--
 **bobandmermaid/bobandmermaid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
